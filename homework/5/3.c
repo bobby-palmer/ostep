@@ -1,12 +1,6 @@
 #include "unistd.h"
 #include "stdlib.h"
 #include "stdio.h"
-:edit 4.c
-
-:w
-:q
-:q
-:q
 #include <string.h>
 
 int main () {
